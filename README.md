@@ -1,0 +1,1 @@
+- 👋 "Cool, deleting projects removes your green squares. Brilliant...." - Me June 2021 - (Lost 30 projects worth of history).
