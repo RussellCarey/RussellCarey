@@ -26,12 +26,7 @@
 </td>
 	</tr>
 	
-	  <tr>
-<td>1</td>
-    <td><a href="https://https://github.com/RussellCarey/Various-early-with-gifs">Old websites - Where I started.</a></td>
-    <td>HTML, CSS.
-</td>
-	</tr>
+
 
 </table>
   https://github.com/RussellCarey/Various-early-with-gifs
