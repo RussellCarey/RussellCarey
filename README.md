@@ -5,7 +5,7 @@
 <br />
 
 - 🌱 I’m currently working with JavaScript, React, Typscript, SQL (Postgres) and MongoDB.
-- 🧘🏻‍♀️ I love Art and Design, hiking and exploring, adandoned buildings and creating interesting things.
+- 🧘🏻‍♀️ I love art, hiking, exploring and travel, adandoned buildings and creating interesting things.
 - 👉 Currently working on a [Tweety the tweet scheulder](https://github.com/RussellCarey/TweetyTwo).
 - 📫 You can connect with me on Twitter [@russellcareyy](https://twitter.com/russellcareyy).
 - ⭐ Find me on LinkedIn (Comming Soon).
