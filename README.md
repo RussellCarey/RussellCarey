@@ -21,7 +21,7 @@
     
   </tr>
  <tr>
-<td><a href="https://github.com/RussellCarey/Animal-Bombers">Animal Bombers: Online Game</a></td>
+<td><a href="https://github.com/RussellCarey/Animal-Bombers">Animal Bombers: Online Game Prototype.</a></td>
 <td>HTML, CSS, Pug, P5, Express, Socket IO.</td>
 <td rowspan="1"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/37c4d946ceae504d4288dcc98b37cf3dba7d1298/SS1.png" width="100%"/></td>
  </tr>
@@ -33,7 +33,7 @@
 </tr>
 	
 <tr>
-<td><a href="https://github.com/RussellCarey/Designo-NextJS-Website">Designo: Front End Mentor</a></td>
+<td><a href="https://github.com/RussellCarey/Designo-NextJS-Website">Designo: Front End Mentor.</a></td>
 <td>HTML, CSS, React, Next JS, Styled Components</td>
 <td rowspan="1"><img src="https://github.com/RussellCarey/Designo-NextJS-Website/raw/68ebf6f62d0edad7c14222d3e1b4be51d27cc8ef/home.png" width="100%"/></td>
 </tr>
