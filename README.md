@@ -2,15 +2,13 @@
 
 <h3 align="center">I'm a developer living in the Japan but from the UK.</h3>
 
-<br />
+
+
+
 
 **Learning in progress**: Typescript and Testing.
 
-**Main project in the works**: [Dungeons & Dragons 3.5 - Character Management](https://dnd-legacy.netlify.app/)
-TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose
-Massive full stack application for D&D game management, built in collaboration with an amazing UX Designer friend, under the name of StudioGR. 
-In skeleton state, but the functionality is already interesting!
-Check out the project on [Ko-fi](https://ko-fi.com/studiogr)
+**Main project in the works**: Who knows? Me.. I know..
 
 ## Techstack:
 
@@ -33,6 +31,8 @@ Node.js | Express | MySQL | PostgresSQL | MongoDB
 
 Git | Adobe XD | Photoshop | Blender
 
+  
+  
   
    ## Some of my projects I like..
 <table style="width:100%; border="0"">
