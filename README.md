@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Russell! .. not Russ ;)</h1>
+<h1 align="center">Hi, I'm Russell!</h1>
 
 <h3 align="center">I'm a developer living in the Japan but from the UK.</h3>
 
