@@ -4,7 +4,7 @@
 
 <br />
 
-**Learning in progress**: Java, advanved OOP and Design Patterns, Data Structures and Algorithms. Deep dive at Jest testing. 
+**Learning in progress**: Typescript and Testing.
 
 **Main project in the works**: [Dungeons & Dragons 3.5 - Character Management](https://dnd-legacy.netlify.app/)
 TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose
