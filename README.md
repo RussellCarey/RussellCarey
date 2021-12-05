@@ -11,7 +11,7 @@
 - ⭐ Find me on LinkedIn (Comming Soon).
 
   
-   ## Projects
+   ## Some of my projects I like..
 <table style="width:100%; border="0"">
   <tr>
 	<th>Index</th>
