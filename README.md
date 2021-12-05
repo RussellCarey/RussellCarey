@@ -37,7 +37,7 @@
 
 
 </table>
-  https://github.com/RussellCarey/Various-early-with-gifs
+
     
 ## My GitHub Stats
 
