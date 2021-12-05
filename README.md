@@ -33,7 +33,7 @@
     <td><a href="https://github.com/RussellCarey/TweetyTwo">Tweety</a></td>
     <td>HTML, CSS, React, TypeScript and Postgres | Express, JWT, Cron, Passport, Twit.</td>
 	 <td rowspan="6"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/37c4d946ceae504d4288dcc98b37cf3dba7d1298/SS1.png" width="100%"/></td>
-	
+	</tr>
 
 
 </table>
