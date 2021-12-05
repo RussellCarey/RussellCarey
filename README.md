@@ -24,7 +24,8 @@
     <td><a href="https://github.com/RussellCarey/Animal-Bombers">Animal Bombers: Online Game</a></td>
     <td>HTML, CSS, Pug, p5, Express, SocketIO..
 </td>
-	  
+	  </tr>
+	<tr>
 	   <td rowspan="6"><img src="https://github.com/RussellCarey/TweetyTwo/blob/e8e3a1f88a173d3126e9d4b04d7a3004b0097efb/SS1.png" width="100%"/></td>
   </tr>
   <tr>
