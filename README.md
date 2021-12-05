@@ -33,7 +33,7 @@
 </tr>
 	
  <tr>
-<td><a href="https://github.com/RussellCarey/TweetyTwo">Coolveys: Survey maker</a></td>
+<td><a href="https://github.com/RussellCarey/Funkey-Survey-Client">Coolveys: Survey maker</a></td>
 <td>HTML, CSS, React, Mongo DB | Express, JWT</td>
 <td rowspan="1"><img src="https://github.com/RussellCarey/Funkey-Survey-Client/blob/a308c334e25f4c46f22ca62ffb1acb6a03f76ad0/Survey.gif" width="100%"/></td>
 </tr>
