@@ -25,14 +25,14 @@
 <td>1</td>
 <td><a href="https://github.com/RussellCarey/Animal-Bombers">Animal Bombers: Online Game</a></td>
 <td>HTML, CSS, Pug, P5, Express, Socket IO.</td>
-<td rowspan="1"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/37c4d946ceae504d4288dcc98b37cf3dba7d1298/SS1.png" width="50%"/></td>
+<td rowspan="1"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/37c4d946ceae504d4288dcc98b37cf3dba7d1298/SS1.png" width="100%"/></td>
  </tr>
 	
  <tr>
 <td>2</td>
 <td><a href="https://github.com/RussellCarey/TweetyTwo">Tweety</a></td>
 <td>HTML, CSS, React, TypeScript and Postgres | Express, JWT, Cron, Passport, Twit.</td>
-<td rowspan="1"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/37c4d946ceae504d4288dcc98b37cf3dba7d1298/SS1.png" width="50%"/></td>
+<td rowspan="1"><img src="https://github.com/RussellCarey/TweetyTwo/blob/e8e3a1f88a173d3126e9d4b04d7a3004b0097efb/SS1.png" width="100%"/></td>
 </tr>
 
 
