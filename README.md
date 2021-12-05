@@ -4,11 +4,34 @@
 
 <br />
 
-- 🌱 I’m currently working with JavaScript, React, Typscript, SQL (Postgres) and MongoDB.
-- 🧘🏻‍♀️ I love art, hiking, exploring and travel, adandoned buildings and creating interesting things.
-- 👉 Currently working on a [Tweety the tweet scheulder](https://github.com/RussellCarey/TweetyTwo).
-- 📫 You can connect with me on Twitter [@russellcareyy](https://twitter.com/russellcareyy).
-- ⭐ Find me on LinkedIn (Comming Soon).
+**Learning in progress**: Java, advanved OOP and Design Patterns, Data Structures and Algorithms. Deep dive at Jest testing. 
+
+**Main project in the works**: [Dungeons & Dragons 3.5 - Character Management](https://dnd-legacy.netlify.app/)
+TypeScript | React | GraphQL & TypeGraphQL | Apollo | NodeJs | MongoDB | TypeGoose
+Massive full stack application for D&D game management, built in collaboration with an amazing UX Designer friend, under the name of StudioGR. 
+In skeleton state, but the functionality is already interesting!
+Check out the project on [Ko-fi](https://ko-fi.com/studiogr)
+
+## Techstack:
+
+### Languages
+
+JavaScript | TypeScript | HTML | CSS  | Learning C# | SQL
+
+
+### Frontend
+
+React | Next.js | Sass
+
+
+### Backend
+
+Node.js | Express | MySQL | PostgresSQL | MongoDB 
+
+
+### Other Tools
+
+Git | Adobe XD | Photoshop | Blender
 
   
    ## Some of my projects I like..
