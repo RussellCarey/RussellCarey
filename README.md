@@ -14,17 +14,19 @@
    ## Some of my projects I like..
 <table style="width:100%; border="0"">
   <tr>
-	<th>Index</th>
+    <th>Index</th>
     <th>Project</th>    
     <th>Main Tech Used</th>
-    <td rowspan="6"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/37c4d946ceae504d4288dcc98b37cf3dba7d1298/SS1.png" width="100%"/></td>
+	<th>Screenshot</th>
+	  
+    
   </tr>
   <tr>
 <td>1</td>
     <td><a href="https://github.com/RussellCarey/Animal-Bombers">Animal Bombers: Online Game</a></td>
     <td>HTML, CSS, Pug, P5, Express, Socket IO.
 </td>
-	 
+	 <td rowspan="6"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/37c4d946ceae504d4288dcc98b37cf3dba7d1298/SS1.png" width="100%"/></td>
 	
   </tr>
   <tr>
