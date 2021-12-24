@@ -19,7 +19,7 @@ JavaScript | TypeScript | HTML | CSS  | Learning C# | SQL
 
 ### Frontend
 
-React | Next.js | Sass
+React | Next.js | Sass | Styled Components
 
 
 ### Backend
