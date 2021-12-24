@@ -55,11 +55,6 @@ Git | Adobe XD | Photoshop | Blender
 <td rowspan="1"><img src="https://github.com/RussellCarey/Tweety/raw/690ffb3156c721752fef71ad989f850f3db778d3/screenshot_1.png" width="100%"/></td>
 </tr>
 	
-<tr>
-<td><a href="https://github.com/RussellCarey/Designo-NextJS-Website">Designo: Front End Mentor.</a></td>
-<td>HTML, CSS, React, Next JS, Styled Components</td>
-<td rowspan="1"><img src="https://github.com/RussellCarey/Designo-NextJS-Website/raw/68ebf6f62d0edad7c14222d3e1b4be51d27cc8ef/home.png" width="100%"/></td>
-</tr>
 
 	
 	
