@@ -6,7 +6,7 @@
 
 
 
-**Learning in progress**: Typescript and Testing.
+**Learning in progress**: Testing.
 
 **Main project in the works**: Who knows? Me.. I know..
 
