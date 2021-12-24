@@ -51,8 +51,8 @@ Git | Adobe XD | Photoshop | Blender
 	
  <tr>
 <td><a href="https://github.com/RussellCarey/TweetyTwo">Tweety</a></td>
-<td>HTML, CSS, React, TypeScript and Postgres || Express, JWT, Cron, Passport, Twit.</td>
-<td rowspan="1"><img src="https://github.com/RussellCarey/TweetyTwo/blob/e8e3a1f88a173d3126e9d4b04d7a3004b0097efb/SS1.png" width="100%"/></td>
+<td>HTML, CSS, React, TypeScript and Postgres || Express, JWT, Cron, Passport, Twit etc.</td>
+<td rowspan="1"><img src="https://github.com/RussellCarey/Tweety/raw/690ffb3156c721752fef71ad989f850f3db778d3/screenshot_1.png" width="100%"/></td>
 </tr>
 	
 <tr>
