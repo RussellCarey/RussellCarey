@@ -60,7 +60,7 @@ Git | Adobe XD | Photoshop | Blender | Postman | PgAdmin | Stack Overflow ;P
  <tr>
 <td><a href="https://github.com/RussellCarey/Tasky">Tasky WIP</a></td>
 <td>HTML, CSS, React, TypeScript and Postgres || Express, JWT, Styled Components etc</td>
-<td rowspan="1"><img src="https://github.com/RussellCarey/Tasky/blob/master/ss.png" width="100%"/></td>
+<td rowspan="1"><img src="https://github.com/RussellCarey/Tasky/blob/master/Design/ss1.png" width="100%"/></td>
 </tr>
 	
 
