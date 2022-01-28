@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Russell!</h1>
 
-<h3 align="center">I'm a developer living in the Japan but from the UK.</h3>
+<h3 align="center">Nice to meet you!</h3>
+<h3 align="center">I'm a developer living in the Japan, from the UK.</h3>
 <h3 align="center">Twitter: @russellcareyy</h3>
 
 
