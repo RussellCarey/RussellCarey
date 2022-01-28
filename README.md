@@ -8,13 +8,13 @@
 
 **Learning in progress**: Testing.
 
-**Main project in the works**: Who knows? Me.. I know..
+**Main project in the works**: Tasky, the console based task recorder.
 
 ## Techstack:
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | Learning C# | SQL
+JavaScript | TypeScript | HTML | CSS  | SQL | etc
 
 
 ### Frontend
