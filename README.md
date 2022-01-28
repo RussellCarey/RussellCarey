@@ -31,7 +31,7 @@ Node.js | Express | PostgresSQL | MongoDB
 
 ### Other Tools
 
-Git | Adobe XD | Photoshop | Blender
+Git | Adobe XD | Photoshop | Blender | Postman | PgAdmin | Stack Overflow ;P
 
   
   
