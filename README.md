@@ -26,7 +26,7 @@ React | Next.js | Sass | Styled Components
 
 ### Backend
 
-Node.js | Express | PostgresSQL | MongoDB 
+Node | Express | PostgresSQL | MongoDB 
 
 
 ### Other Tools
