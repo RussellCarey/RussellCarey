@@ -8,7 +8,7 @@
 
 
 
-**Learning in progress**: Docket and React Native.
+**Learning in progress**: Docker  and React Native.
 
 **Main project in the works**: Tasky, the console based task recorder.
 
@@ -16,7 +16,7 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | SQL | etc
+JavaScript | TypeScript | HTML | CSS  | SQL | Jest
 
 
 ### Frontend
