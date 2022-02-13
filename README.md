@@ -16,22 +16,22 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | SQL | Jest
+JavaScript | TypeScript | HTML | CSS  | SQL | C# (In progress)
 
 
 ### Frontend
 
-React | Next.js | Sass | Styled Components
+React | Next | React Native (in progress) | Sass | Styled Components
 
 
 ### Backend
 
-Node | Express | PostgresSQL | MongoDB 
+Node | Express | Postgres | Mongo | NGINX
 
 
 ### Other Tools
 
-Git | Adobe XD | Photoshop | Blender | Postman | PgAdmin | Stack Overflow ;P
+Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P
 
   
   
