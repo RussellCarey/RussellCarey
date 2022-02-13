@@ -39,9 +39,9 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
    ## Some of my projects I like..
 <table style="width:100%; border="0"">
   <tr>
-    <th style="width:30%">Project</th>    
-    <th style="width:35%">Main Tech Used</th>
-	<th style="width:35%">Descripton</th>
+    <th style="width:20%">Project</th>    
+    <th style="width:30%">Main Tech Used</th>
+	<th style="width:50%">Descripton</th>
   </tr>
 	
 <tr>
