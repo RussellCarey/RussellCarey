@@ -71,7 +71,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
  </tr>
 	
 <tr>
-<td rowspan="3"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/d7327cd99d4f3f48b885c53f5d1db32bd965b328/SS1.png" width="100%"/></td>
+<td colspan="3"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/d7327cd99d4f3f48b885c53f5d1db32bd965b328/SS1.png" width="100%"/></td>
 </tr>
 	
 
