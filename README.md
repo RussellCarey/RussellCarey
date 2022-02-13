@@ -40,11 +40,10 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 <table style="width:100%; border="0"">
   <tr>
     <th style="width:30%">Project</th>    
-    <th>Main Tech Used</th>
-	<th>Descripton</th>
-	  
-    
+    <th style="width:35%">Main Tech Used</th>
+	<th style="width:35%">Descripton</th>
   </tr>
+	
 <tr>
 <td><a href="https://github.com/RussellCarey/Tasky">Tasky</a></td>
 <td>HTML, CSS, React, TypeScript and Postgres || Express, JWT, Styled Components etc</td>
