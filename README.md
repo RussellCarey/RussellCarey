@@ -8,7 +8,7 @@
 
 
 
-**Learning in progress**: Testing.
+**Learning in progress**: Docket and React Native.
 
 **Main project in the works**: Tasky, the console based task recorder.
 
