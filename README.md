@@ -10,7 +10,7 @@
 
 **Learning in progress**: Docker  and React Native.
 
-**Main project in the works**: Tasky, the console based task recorder.
+**Main project in the works**: My portfolio.
 
 ## Techstack:
 
