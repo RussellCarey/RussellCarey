@@ -8,7 +8,7 @@
 
 
 
-**Learning in progress**: Docker  and React Native.
+**Learning in progress**: C# backend and React Native.
 
 **Main project in the works**: My portfolio.
 
