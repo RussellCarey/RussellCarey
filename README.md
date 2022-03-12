@@ -50,7 +50,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 <tr>
 	<td><a href="https://github.com/RussellCarey/Tasky">Tasky</a></td>
 	<td>HTML, CSS, React, TypeScript and Postgres || Express, JWT, Styled Components etc</td>
-	<td>bla bla bla bla bla bla bla bla bla bla bla blabla lba</td>
+	<td>Simple, fullstack, console themed task recorder.</td>
 </tr>
 	
 <tr>
@@ -62,7 +62,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 <tr>
 	<td><a href="https://github.com/RussellCarey/TweetyTwo">Tweety</a></td>
 	<td>HTML, CSS, React, TypeScript and Postgres || Express, JWT, Cron, Passport, Twit etc.</td>
-	<td> bla bla bla bla nla ln alskfigiud fubdifug ibdfu bgudbfug budfbg </td>
+	<td>Simple tweet message / image scheduler!</td>
 </tr>
 
 <tr>
@@ -74,7 +74,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
  <tr>
 	<td><a href="https://github.com/RussellCarey/Animal-Bombers">[Old] Animal Bombers: Online Game Prototype.</a></td>
 	<td>HTML, CSS, Pug, P5, Express, Socket IO.</td>
-	<td >n sdjfj sdjn fsdnlk fnskld nfklsnd fnklsd nklfnsdlkn fklsd nklfnskld nflsdn kflnskfnklsn fnskldfn s</td>
+	<td >Bomber-man inpsired online battle game using socket io.</td>
  </tr>
 	
 <tr>
