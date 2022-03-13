@@ -45,16 +45,6 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 	<th style="width:50%">Descripton</th>
 </tr>
 	
- <tr>
-	<td><a href="https://github.com/RussellCarey/Animal-Bombers">[Old] Animal Bombers: Online Game Prototype.</a></td>
-	<td>HTML, CSS, Pug, P5, Express, Socket IO.</td>
-	<td >Bomber-man inpsired online battle game using socket io.</td>
- </tr>
-	
-<tr>
-	<td colspan="3"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/d7327cd99d4f3f48b885c53f5d1db32bd965b328/SS1.png" width="100%"/></td>
-</tr>
-	
 	
 <tr>
 	<td><a href="https://github.com/RussellCarey/Tasky">Tasky</a></td>
@@ -78,6 +68,16 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 	<td colspan="3"><img src="https://github.com/RussellCarey/Tweety/raw/690ffb3156c721752fef71ad989f850f3db778d3/screenshot_1.png" width="100%"/></td>
 </tr>
 	
+	
+ <tr>
+	<td><a href="https://github.com/RussellCarey/Animal-Bombers">[Old] Animal Bombers: Online Game Prototype.</a></td>
+	<td>HTML, CSS, Pug, P5, Express, Socket IO.</td>
+	<td >Bomber-man inpsired online battle game using socket io.</td>
+ </tr>
+	
+<tr>
+	<td colspan="3"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/d7327cd99d4f3f48b885c53f5d1db32bd965b328/SS1.png" width="100%"/></td>
+</tr>
 	
 	
 
