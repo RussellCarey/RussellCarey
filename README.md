@@ -82,7 +82,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 
  <tr>
 	<td><a href="https://github.com/RussellCarey/MonsterMash">Monster Mash - Drawing Game.</a></td>
-	<td>NextJS, Mongoose / Mongo, Express, Passpor</td>
+	<td>NextJS, Mongoose / Mongo, Express, Passport, Twit</td>
 	<td >A monster drawing game where users combine body parts to create monsters!</td>
  </tr>
 	
