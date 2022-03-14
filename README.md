@@ -79,6 +79,17 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 	<td colspan="3"><img src="https://github.com/RussellCarey/Animal-Bombers/blob/d7327cd99d4f3f48b885c53f5d1db32bd965b328/SS1.png" width="100%"/></td>
 </tr>
 	
+
+ <tr>
+	<td><a href="https://github.com/RussellCarey/MonsterMash">[Old] Monster Mash - Drawing Game.</a></td>
+	<td>NextJS, Mongoose / Mongo, Express, Passpor</td>
+	<td >A monster drawing game where users combine body parts to create monsters!</td>
+ </tr>
+	
+<tr>
+	<td colspan="3"><img src="https://github.com/RussellCarey/MonsterMash/blob/master/client/s3.png" width="100%"/></td>
+</tr>
+	
 	
 
 	
