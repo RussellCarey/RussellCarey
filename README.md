@@ -7,7 +7,6 @@
 
 
 
-
 **Learning in progress**: C# backend and React Native.
 
 **Main project in the works**: My portfolio.
@@ -44,6 +43,18 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
   	<th style="width:30%">Main Tech Used</th>
 	<th style="width:50%">Descripton</th>
 </tr>
+	
+	
+<tr>
+	<td><a href="https://github.com/RussellCarey/portfolio">Portfolio Site</a></td>
+	<td>React, TypeScript, Postgres and Styled Components etc</td>
+	<td>Computer themed portfolio.</td>
+</tr>
+	
+<tr>
+	<td colspan="3"> <img src="https://github.com/RussellCarey/portfolio/blob/master/design/folio.gif?raw=true" width="100%"/> </td>
+</tr>
+	
 	
 	
 <tr>
