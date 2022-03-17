@@ -72,7 +72,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
  <tr>
 	<td><a href="https://github.com/RussellCarey/Animal-Bombers">[Old] Animal Bombers: Online Game Prototype.</a></td>
 	<td>HTML, CSS, Pug, P5, Express, Socket IO.</td>
-	<td >Bomber-man inpsired online battle game using socket io.</td>
+	<td >Hand-drawn Bomber-man inpsired online battle game using socket io.</td>
  </tr>
 	
 <tr>
