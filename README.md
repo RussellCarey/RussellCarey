@@ -52,7 +52,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 	
 <tr>
-	<td colspan="3"> <img src="https://github.com/RussellCarey/portfolio/blob/master/design/folio.gif?raw=true" width="100%"/> </td>
+	<td colspan="3"> <img src="https://github.com/RussellCarey/portfolio/blob/master/design/ss1.png?raw=true" width="100%"/> </td>
 </tr>
 	
 	
@@ -64,7 +64,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 	
 <tr>
-	<td colspan="3"> <img src="https://github.com/RussellCarey/Tasky/blob/master/Design/gif1.gif" width="100%"/> </td>
+	<td colspan="3"> <img src="https://github.com/RussellCarey/Tasky/blob/master/Design/ss1.png?raw=true" width="100%"/> </td>
 </tr>
 	
 	
