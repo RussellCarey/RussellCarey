@@ -45,7 +45,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 	
 	
-<tr>
+<!-- <tr>
 	<td><a href="https://github.com/RussellCarey/portfolio">Portfolio Site</a></td>
 	<td>React, TypeScript, Postgres and Styled Components etc</td>
 	<td>Computer themed portfolio.</td>
@@ -53,7 +53,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 	
 <tr>
 	<td colspan="3"> <img src="https://github.com/RussellCarey/portfolio/blob/master/design/ss1.png?raw=true" width="100%"/> </td>
-</tr>
+</tr> -->
 	
 	
 	
