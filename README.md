@@ -7,7 +7,7 @@
 
 
 
-**Learning in progress**: C# backend and React Native.
+**Learning in progress**: Ruby / Rails and more of what I know!
 
 **Main project in the works**: My portfolio.
 
