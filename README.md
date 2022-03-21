@@ -15,7 +15,7 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | SQL | C# (In progress)
+JavaScript | TypeScript | HTML | CSS  | SQL | Ruby (In progress)
 
 
 ### Frontend
@@ -25,7 +25,7 @@ React | Next | React Native (in progress) | Sass | Styled Components
 
 ### Backend
 
-Node | Express | Postgres | Mongo | NGINX
+Node | Express | Postgres | Mongo | NGINX | Ruby on Rails (In progress)
 
 
 ### Other Tools
