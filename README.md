@@ -15,7 +15,7 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | SQL | Ruby (In progress)
+JavaScript | TypeScript | HTML | CSS  | SQL | Ruby (In progress).  
 Experience with C# and Unity.
 
 
