@@ -7,7 +7,7 @@
 
 
 
-**Learning in progress**: Ruby / Rails and more of what I know!
+**Learning in progress**: C# for backend / more React stuff!
 
 **Main project in the works**: My portfolio.
 
@@ -15,8 +15,8 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | SQL | Ruby (In progress).  
-Experience with C# and Unity.
+JavaScript | TypeScript | HTML | CSS  | SQL.  
+A little Ruby and experience with C# / Unity.
 
 
 ### Frontend
@@ -26,7 +26,8 @@ React | Next | React Native (in progress) | Sass | Styled Components
 
 ### Backend
 
-Node | Express | Postgres | Mongo | NGINX | Ruby on Rails (In progress)
+Node | Express | Postgres | Mongo | NGINX.  
+A little Ruby on Rails
 
 
 ### Other Tools
