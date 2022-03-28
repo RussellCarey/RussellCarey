@@ -7,7 +7,7 @@
 
 
 
-**Learning in progress**: C# for backend / more React stuff!
+**Learning in progress**: PHP and Laravel / more React stuff!
 
 **Main project in the works**: My portfolio.
 
