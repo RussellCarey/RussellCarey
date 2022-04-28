@@ -9,7 +9,7 @@
 
 **Learning in progress**: PHP and Laravel / more React stuff!
 
-**Main project in the works**: My portfolio.
+**Main project in the works**: My portfolio and Jobby the JIRA like clone.
 
 ## Techstack:
 
