@@ -7,7 +7,7 @@
 
 
 
-**Learning in progress**: PHP and Laravel / more React stuff!
+**Learning in progress**: Type ORM and better back end practies.
 
 **Main project in the works**: My portfolio and Jobby the JIRA like clone.
 
