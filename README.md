@@ -112,7 +112,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
  </tr>
 	
 <tr>
-	<td colspan="3"><img src="https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/s1.png?raw=true" width="100%"/></td>
+	<td colspan="3"><img src="https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/g1.gif?raw=true" width="100%"/></td>
 </tr>
 	
 	
