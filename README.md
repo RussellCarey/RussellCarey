@@ -47,17 +47,6 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 	
 	
-
-
-<tr>
-	<td><a href="https://github.com/RussellCarey/Unity-Music-Game">Unity - Music Game.</a></td>
-	<td>C# and Unity</td>
-	<td >My first go at learning to code. From when I first started to learn programming back in 2019.</td>
- </tr>
-	
-<tr>
-	<td colspan="3"><img src="https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/g1.gif?raw=true" width="100%"/></td>
-</tr>
 	
 	
 <tr>
@@ -104,6 +93,15 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 	<td colspan="3"><img src="https://github.com/RussellCarey/MonsterMash/blob/master/client/s3.png?raw=true" width="100%"/></td>
 </tr>
 	
+<tr>
+	<td><a href="https://github.com/RussellCarey/Unity-Music-Game">Unity - Music Game.</a></td>
+	<td>C# and Unity</td>
+	<td >My first go at learning to code. From when I first started to learn programming back in 2019.</td>
+ </tr>
+	
+<tr>
+	<td colspan="3"><img src="https://github.com/RussellCarey/Unity-Music-Game/blob/master/Media/g1.gif?raw=true" width="100%"/></td>
+</tr>
 	
 	
 
