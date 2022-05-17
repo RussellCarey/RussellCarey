@@ -15,8 +15,8 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | SQL.  
-A PHP / Laravel and experience with C# / Unity.
+JavaScript | TypeScript | HTML | CSS  | SQL / Postresql etc..
+A little PHP / Laravel and experience with C# / Unity.
 
 
 ### Frontend
