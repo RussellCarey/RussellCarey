@@ -113,13 +113,5 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </table>
 
     
-## My GitHub Stats
-
-<p align="center">
-<a href="https://github.com/RussellCarey">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RussellCarey&count_private=true&show_icons=true&theme=radical" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RussellCarey&theme=radical&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-</a>
-</p>
 
 
