@@ -7,9 +7,9 @@
 
 
 
-**Learning in progress**: Type ORM and better back end practies.
+**Learning in progress**: Front-end and Swift.
 
-**Main project in the works**: My portfolio and Jobby the JIRA like clone.
+**Main project in the works**: Jobby the JIRA like project managment app.
 
 ## Techstack:
 
