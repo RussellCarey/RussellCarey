@@ -16,12 +16,12 @@
 ### Languages
 
 JavaScript | TypeScript | HTML | CSS  | SQL / Postresql etc..
-A little PHP / Laravel and experience with C# / Unity.
+Experience with C# / Unity.
 
 
 ### Frontend
 
-React | Next | React Native (in progress) | Sass | Styled Components
+React | Next | React Native | Sass | Styled Components etc..
 
 
 ### Backend
