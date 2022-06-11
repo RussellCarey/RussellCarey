@@ -49,7 +49,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 	
 	
 <tr>
-	<td><a href="https://github.com/RussellCarey/Tasky">Jobby</a></td>
+	<td><a href="https://github.com/RussellCarey/Jobby-Main">Jobby</a></td>
 	<td>HTML, CSS, React, TypeScript and Postgres, TypeORM, Express, JWT, Styled Components etc</td>
 	<td>Project / task manager similar to that of Jira.</td>
 </tr>
