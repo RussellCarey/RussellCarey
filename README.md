@@ -9,14 +9,14 @@
 
 **Learning in progress**: Improving my Front-end skills and Swift.
 
-**Main project in the works**: Jobby the JIRA like project managment app.
+**Main project in the works**: Jobby the JIRA like project managment app and various Swift apps.
 
 ## Techstack:
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS  | SQL / Postresql etc..
-Experience with C# / Unity.
+JavaScript | TypeScript | HTML | CSS | SQL | Swift
+Some experience with C# / Unity,
 
 
 ### Frontend
