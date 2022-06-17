@@ -7,7 +7,7 @@
 
 
 
-**Learning in progress**: Front-end and Swift.
+**Learning in progress**: Improving my Front-end skills and Swift.
 
 **Main project in the works**: Jobby the JIRA like project managment app.
 
