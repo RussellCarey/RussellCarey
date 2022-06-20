@@ -29,6 +29,7 @@ React | Next | React Native | Sass | Styled Components etc..
 
 Node | Express | Postgres | Mongo | NGINX.  
 A little PHP / Laravel
+A little Ruby on Rails
 
 
 ### Other Tools
