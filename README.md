@@ -17,8 +17,7 @@
 
 ### Languages
 
-JavaScript | TypeScript | HTML | CSS | SQL | Swift
-Some experience with C# / Unity,
+JavaScript | TypeScript | HTML | CSS | SQL | Learning Swift | Some experience with C# / Unity,
 
 
 ### Frontend
