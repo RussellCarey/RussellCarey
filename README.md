@@ -9,9 +9,9 @@
 
 
 
-**Learning in progress**: Improving my Front-end skills and Swift.
+**Learning in progress**: Improving my Front-end skills and Ruby/Rails.
 
-**Main project in the works**: Jobby the JIRA like project managment app and various Swift apps.
+**Main project in the works**: Jobby the JIRA like project managment app and various Ruby/Rails apps.
 
 ## Techstack:
 
