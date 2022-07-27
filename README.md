@@ -24,15 +24,10 @@
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23476dad.svg?style=for-the-badge&logo=Ruby&logoColor=%23ffffff"/>
 </p>
 
-
-### Frontend
-
 <p align="center">
 <img alt="react" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 <img alt="styled components" src="https://img.shields.io/badge/styled--components-%23476dad.svg?style=for-the-badge&logo=styled-components&logoColor=%23ffffff"/>
 </p>
-
-### Backend
  
 <p align="center">
 <img alt="node.js" src="https://img.shields.io/badge/node.js-%23476dad.svg?style=for-the-badge&logo=node.js&logoColor=%23ffffff"/>
@@ -42,8 +37,6 @@
 <img alt="nginx" src="https://img.shields.io/badge/nginx-%23476dad.svg?style=for-the-badge&logo=nginx&logoColor=%23ffffff"/>
 </p>
 
-
-### Some experience with
 <p align="center">
 <img alt="react_native" src="https://img.shields.io/badge/react_native-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 <img alt="laravel" src="https://img.shields.io/badge/laravel-%23476dad.svg?style=for-the-badge&logo=laravel&logoColor=%23ffffff"/>
