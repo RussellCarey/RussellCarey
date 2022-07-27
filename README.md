@@ -29,7 +29,7 @@
 
 <p align="center">
 <img alt="react" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-<img alt="styled components" src="https://img.shields.io/badge/styled-components-%23476dad.svg?style=for-the-badge&logo=styled-components&logoColor=%23ffffff"/>
+<img alt="styled components" src="https://img.shields.io/badge/styled--components-%23476dad.svg?style=for-the-badge&logo=styled-components&logoColor=%23ffffff"/>
 </p>
 
 ### Backend
