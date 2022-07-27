@@ -3,7 +3,7 @@
 <h3 align="center">Nice to meet you!</h3>
 <h3 align="center">I'm a developer living in Japan, from the UK.</h3>
 <h3 align="center">Site: www.russell-carey.com</h3>
-<h3 align="center">Twitter: @russellcareyy</h3>
+<h3 align="center">Twitter: [@RussellCareyy](https://www.twitter.com/russellcareyy)</h3>
 <h3 align="center">----</h3>
 
 
