@@ -48,7 +48,7 @@
 
 ## Other tools:
 
-Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P
+Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P.     
 
   
   
