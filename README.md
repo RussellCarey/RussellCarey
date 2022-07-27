@@ -74,9 +74,6 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 	
 <tr>
-</tr>
-	
-<tr>
 	<td><a href="https://github.com/RussellCarey/Tasky">Tasky</a></td>
 	<td>HTML, CSS, React, TypeScript and Postgres, JEST || Docker, Express, JWT, Styled Components etc</td>
 	<td>Simple, fullstack, console themed task recorder.</td>
