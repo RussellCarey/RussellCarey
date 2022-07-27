@@ -27,21 +27,31 @@
 
 ### Frontend
 
+<p>
 <img alt="react" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 <img alt="styled components" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-
+</p>
 
 ### Backend
 
 Node | Express | Postgres | Mongo | NGINX.  
+<p>
+<img alt="node.js" src="https://img.shields.io/badge/node.js-%23476dad.svg?style=for-the-badge&logo=node.js&logoColor=%23ffffff"/>
+<img alt="postgres" src="https://img.shields.io/badge/postgres-%23476dad.svg?style=for-the-badge&logo=postgresql&logoColor=%23ffffff"/>
+<img alt="express" src="https://img.shields.io/badge/express.js-%23476dad.svg?style=for-the-badge&logo=express&logoColor=%23ffffff"/>
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%23476dad.svg?style=for-the-badge&logo=mongodb&logoColor=%23ffffff"/>
+<img alt="nginx" src="https://img.shields.io/badge/nginx-%23476dad.svg?style=for-the-badge&logo=nginx&logoColor=%23ffffff"/>
+</p>
+
 
 ### Some experience with
+<p>
 <img alt="react_native" src="https://img.shields.io/badge/react_native-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-<img alt="styled component" src="https://img.shields.io/badge/styled--components-%23476dad.svg?style=for-the-badge&logo=styled-components&logoColor=%23ffffff"/>
 <img alt="laravel" src="https://img.shields.io/badge/laravel-%23476dad.svg?style=for-the-badge&logo=laravel&logoColor=%23ffffff"/>
+<img alt="ruby on rails" src="https://img.shields.io/badge/rails-%23476dad.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=%23ffffff"/>
+</p>
 
 
-laravel
 ### Other Tools
 
 Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P
