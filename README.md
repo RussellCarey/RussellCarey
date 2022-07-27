@@ -46,14 +46,14 @@
 </p>
 
 
-### Other Tools:
+## Other tools:
 
 Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P
 
   
   
   
-## Some of my projects I like..
+## Some projects I like!:
 
 <table style="width:100%; border="0"">
 	
