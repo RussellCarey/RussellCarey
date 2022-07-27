@@ -25,22 +25,23 @@
 </p>
 
 
-
-
 ### Frontend
 
-React | Next | React Native | Sass | Styled Components etc..
 <img alt="react" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-<img alt="react_native" src="https://img.shields.io/badge/react_native-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
+<img alt="styled components" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 
 
 ### Backend
 
 Node | Express | Postgres | Mongo | NGINX.  
-A little PHP / Laravel
-A little Ruby on Rails
+
+### Some experience with
+<img alt="react_native" src="https://img.shields.io/badge/react_native-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
+<img alt="styled component" src="https://img.shields.io/badge/styled--components-%23476dad.svg?style=for-the-badge&logo=styled-components&logoColor=%23ffffff"/>
+<img alt="laravel" src="https://img.shields.io/badge/laravel-%23476dad.svg?style=for-the-badge&logo=laravel&logoColor=%23ffffff"/>
 
 
+laravel
 ### Other Tools
 
 Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P
