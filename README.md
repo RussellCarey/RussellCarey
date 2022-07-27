@@ -51,7 +51,8 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
   
   
   
-   ## Some of my projects I like..
+## Some of my projects I like..
+
 <table style="width:100%; border="0"">
 	
 <tr>
