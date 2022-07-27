@@ -30,6 +30,8 @@
 ### Frontend
 
 React | Next | React Native | Sass | Styled Components etc..
+<img alt="react" src="https://img.shields.io/badge/react-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
+<img alt="react_native" src="https://img.shields.io/badge/react_native-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
 
 
 ### Backend
