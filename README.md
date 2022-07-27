@@ -3,7 +3,7 @@
 <h3 align="center">Nice to meet you!</h3>
 <h3 align="center">I'm a developer living in Japan, from the UK.</h3>
 <h4 align="center">I'm a developer who loves taking projects from the design phase to completion.</h4>
-<h4> I love working Front as much as Back (even testing too!) </h4>
+<h4 align="center"> I love working Front as much as Back (even testing too!) </h4>
 <h3 align="center">Site: www.russell-carey.com</h3>
 <h3 align="center">Twitter: www.twitter.com/russellcareyy</h3>
 <h3 align="center">----</h3>
