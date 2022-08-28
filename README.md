@@ -3,7 +3,7 @@
 <h3 align="center">Nice to meet you!</h3>
 <h3 align="center">I'm a developer living in Japan, from the UK.</h3>
 <h4 align="center">I'm a developer who loves taking projects from the design phase to completion.</h4>
-<p align="center"> I spend everyday studying, coding and improving my skills. I am currently completing a BSc in Computer Science and also am currently interning at a great startup, Mamoru, assisting with the web application. I also mentor users who volunteer with us and conduct Front End code reviews.) </p>
+<p align="center"> I spend everyday studying, coding and improving my skills. I am currently completing a BSc in Computer Science and also am currently interning at a great startup, Mamoru, assisting with the web application, mentoring and reviewing. </p>
 
 
 
