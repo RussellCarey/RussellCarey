@@ -51,6 +51,7 @@
 <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%23476dad.svg?style=for-the-badge&logo=mongodb&logoColor=%23ffffff"/>
 <img alt="nginx" src="https://img.shields.io/badge/nginx-%23476dad.svg?style=for-the-badge&logo=nginx&logoColor=%23ffffff"/>
 <img alt="postgres" src="https://img.shields.io/badge/postgres-%23476dad.svg?style=for-the-badge&logo=postgresql&logoColor=%23ffffff"/>
+<img alt="next_js" src="https://img.shields.io/badge/next_js-%23476dad.svg?style=for-the-badge&logo=next-js&logoColor=%23ffffff"/>
 </p>
 
 
