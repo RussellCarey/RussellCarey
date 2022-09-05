@@ -40,7 +40,7 @@
 <img alt="express" src="https://img.shields.io/badge/express.js-%23476dad.svg?style=for-the-badge&logo=express&logoColor=%23ffffff"/>
 </p>
 
-## Some experience with:
+## Experience with:
 
 <p align="center">
 <img alt="swift" src="https://img.shields.io/badge/swift-%23476dad.svg?style=for-the-badge&logo=swift&logoColor=%23ffffff"/>
