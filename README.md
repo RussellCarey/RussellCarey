@@ -45,7 +45,6 @@
 <p align="center">
 <img alt="swift" src="https://img.shields.io/badge/swift-%23476dad.svg?style=for-the-badge&logo=swift&logoColor=%23ffffff"/>
 <img alt="react_native" src="https://img.shields.io/badge/react_native-%23476dad.svg?style=for-the-badge&logo=react&logoColor=%23ffffff"/>
-<img alt="laravel" src="https://img.shields.io/badge/laravel-%23476dad.svg?style=for-the-badge&logo=laravel&logoColor=%23ffffff"/>
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23476dad.svg?style=for-the-badge&logo=Ruby&logoColor=%23ffffff"/>
 <img alt="ruby on rails" src="https://img.shields.io/badge/rails-%23476dad.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=%23ffffff"/>
 <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%23476dad.svg?style=for-the-badge&logo=mongodb&logoColor=%23ffffff"/>
