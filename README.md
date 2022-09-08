@@ -78,8 +78,9 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 
 <tr>
-	<td colspan="3"> <img src="https://github.com/RussellCarey/komoju-front/raw/master/design/ss1.png?raw=true" width="100%"/> </td>
-	<br>
+	<td colspan="3"> <img src="https://github.com/RussellCarey/komoju-front/raw/master/design/ss1.png?raw=true" width="100%"/> </td>  
+	
+	
 </tr>
 	
 	
