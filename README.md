@@ -20,7 +20,7 @@
 
 **Main project in the works**: Jobby the JIRA like project managment app and various Ruby/Rails apps.
 
-## Techstack:
+## Things I work with..:
 
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23325288.svg?style=for-the-badge&logo=html5&logoColor=ffffff"/>
