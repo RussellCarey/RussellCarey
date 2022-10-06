@@ -28,6 +28,7 @@
 <img alt="Sass" src="https://img.shields.io/badge/sass-%23476dad.svg?style=for-the-badge&logo=sass&logoColor=%23ffffff"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23325288.svg?style=for-the-badge&logo=javascript&logoColor=%23ffffff"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23325288.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23476dad.svg?style=for-the-badge&logo=Ruby&logoColor=%23ffffff"/>
 </p>
 
 <p align="center">
@@ -38,7 +39,6 @@
 <p align="center">
 <img alt="node.js" src="https://img.shields.io/badge/node.js-%23476dad.svg?style=for-the-badge&logo=node.js&logoColor=%23ffffff"/>
 <img alt="express" src="https://img.shields.io/badge/express.js-%23476dad.svg?style=for-the-badge&logo=express&logoColor=%23ffffff"/>
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23476dad.svg?style=for-the-badge&logo=Ruby&logoColor=%23ffffff"/>
 <img alt="ruby on rails" src="https://img.shields.io/badge/rails-%23476dad.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=%23ffffff"/>
 </p>
 
