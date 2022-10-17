@@ -70,19 +70,6 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
   	<th style="width:30%">Main Tech Used</th>
 	<th style="width:50%">Descripton</th>
 </tr>
-
-<tr>
-	<td><a href="https://github.com/RussellCarey/Komoju-Front">Tokeny - Komoju Payments</a></td>
-	<td>HTML, CSS, Vue, TypeScript, Ruby / Rails, JWT etc</td>
-	<td>Mini project where users can purchase tokens to then purchase game codes.</td>
-</tr>
-
-<tr>
-	<td colspan="3"> <img src="https://github.com/RussellCarey/komoju-front/raw/master/design/ss2.png?raw=true" width="100%"/> </td>  
-	
-	
-</tr>
-	
 	
 <tr>
 	<td><a href="https://github.com/RussellCarey/Jobby-Main">Jobby</a></td>
@@ -93,6 +80,17 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 <tr>
 	<td colspan="3"> <img src="https://github.com/RussellCarey/Jobby-Main/raw/master/Design/jobbygiff.gif?raw=true" width="100%"/> </td>
 </tr>
+
+<tr>
+	<td><a href="https://github.com/RussellCarey/Komoju-Front">Tokeny - Komoju Payments</a></td>
+	<td>HTML, CSS, Vue, TypeScript, Ruby / Rails, JWT etc</td>
+	<td>Mini project where users can purchase tokens to then purchase game codes.</td>
+</tr>
+
+<tr>
+	<td colspan="3"> <img src="https://github.com/RussellCarey/komoju-front/raw/master/design/ss2.png?raw=true" width="100%"/> </td>  
+</tr>
+
 	
 <tr>
 	<td><a href="https://github.com/RussellCarey/Tasky">Tasky</a></td>
