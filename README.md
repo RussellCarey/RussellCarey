@@ -18,7 +18,7 @@
 
 **Learning in progress**: Improving my Front-end skills and Ruby/Rails.
 
-**Main project in the works**: Jobby the JIRA like project managment app and various Ruby/Rails apps.
+**Main project in the works**: Lots of Fron End work with the startup I work with.
 
 ## Things I work with..:
 
