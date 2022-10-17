@@ -72,7 +72,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 
 <tr>
-	<td><a href="https://github.com/RussellCarey/Komoju-Front">Tokeny - Komoju Payments - WIP</a></td>
+	<td><a href="https://github.com/RussellCarey/Komoju-Front">Tokeny - Komoju Payments</a></td>
 	<td>HTML, CSS, Vue, TypeScript, Ruby / Rails, JWT etc</td>
 	<td>Mini project where users can purchase tokens to then purchase game codes.</td>
 </tr>
@@ -85,7 +85,7 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 	
 	
 <tr>
-	<td><a href="https://github.com/RussellCarey/Jobby-Main">Jobby WIP</a></td>
+	<td><a href="https://github.com/RussellCarey/Jobby-Main">Jobby</a></td>
 	<td>HTML, CSS, React, TypeScript and Postgres, TypeORM, Express, JWT, Styled Components etc</td>
 	<td>Project / task manager similar to that of Jira.</td>
 </tr>
