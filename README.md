@@ -18,7 +18,7 @@
 
 **Learning in progress**: Improving my Front-end skills and Ruby/Rails.
 
-**Main project in the works**: Lots of Fron End work with the startup I work with.
+**Main project in the works**: Lots of Front End work with the startup I work with.
 
 ## Things I work with..:
 
