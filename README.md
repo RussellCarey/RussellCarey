@@ -82,8 +82,8 @@ Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack O
 </tr>
 	
 <tr>
-	<td><a href="https://github.com/RussellCarey/Portfolio">Jobby</a></td>
-	<td>HTML, CSS, React, TypeScript etc</td>
+	<td><a href="https://github.com/RussellCarey/Portfolio">Folio</a></td>
+	<td>HTML, CSS, React, TypeScript, Prismic CMS etc</td>
 	<td>My first website. Themed around that of an OS or computer.</td>
 </tr>
 
