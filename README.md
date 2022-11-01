@@ -16,9 +16,9 @@
 
 
 
-**Learning in progress**: Improving my Front-end skills and Ruby/Rails.
+**Learning in progress**: Improving my Front-end skills and building a project with NestJS.
 
-**Main project in the works**: Lots of Front End work with the startup I work with.
+**Main project in the works**: Lots of Front End work with the startup I work with and my own startup.
 
 ## Things I work with..:
 
