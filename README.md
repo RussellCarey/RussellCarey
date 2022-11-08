@@ -56,7 +56,7 @@
 
 ## Other tools:
 
-Linux | Docker | Jest | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P.     
+Linux | Docker | Redis |Jest / Other testing | Git | Adobe XD | Photoshop | Blender | Postman | Stack Overflow ;P.     
 
   
   
