@@ -16,9 +16,9 @@
 
 
 
-**Learning in progress**: Improving my Front-end skills and building a project with NestJS.
+**Learning in progress**: Front end (various) and NestJS / more advanced backend skills.
 
-**Main project in the works**: Lots of Front End work with the startup I work with and my own startup.
+**Main project in the works**: Lots of Front End work with the startup I work with and my own potential startup project.
 
 ## Things I work with..:
 
