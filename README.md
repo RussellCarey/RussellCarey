@@ -3,22 +3,11 @@
 <h3 align="center">Nice to meet you!</h3>
 <h3 align="center">I'm a developer living in Japan, from the UK.</h3>
 <h4 align="center">I'm a developer who loves taking projects from the design phase to completion.</h4>
-<p align="center"> I spend everyday studying, coding and improving my skills. I am currently completing a BSc in Computer Science and also am currently interning at a great startup, Mamoru, working on the front end for their web application, mentoring and reviewing. </p>
-
-
-
-
+<p align="center"> BSc Computer Science student and current Front-End engineer working at foriio.</p>
 
 <h3 align="center">Site: www.russell-carey.com</h3>
 <h3 align="center">Twitter: www.twitter.com/russellcareyy</h3>
 <h3 align="center">----</h3>
-
-
-
-
-**Learning in progress**: Front end (various) and NestJS / more advanced backend skills.
-
-**Main project in the works**: Lots of Front End work with the startup I work with and my own potential startup project.
 
 ## Things I work with..:
 
