@@ -5,7 +5,6 @@
 <h4 align="center">I'm a developer who loves taking projects from the design phase to completion.</h4>
 <p align="center"> BSc Computer Science student and current Front-End engineer working at foriio.</p>
 
-<h3 align="center">Twitter: www.twitter.com/russellcareyy</h3>
 <h3 align="center">----</h3>
 
 ## Things I work with..:
