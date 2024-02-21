@@ -6,7 +6,7 @@
 <p align="center"> BSc Computer Science student and current SE working at Japans number one portfolio site, foriio.</p>
 
 <br><br><br>
-## Some projects I like:
+## Some older projects I like:
 
 <table style="width:100%; border="0"">
 	
