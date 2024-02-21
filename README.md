@@ -5,8 +5,8 @@
 <h4 align="center">SE who loves taking projects from the design phase to completion.</h4>
 <p align="center"> BSc Computer Science student and current Front-End engineer working at Japans number one portfolio site, foriio.</p>
 
-  
-## Some projects I like!:
+<br><br><br>
+## Some projects I like:
 
 <table style="width:100%; border="0"">
 	
